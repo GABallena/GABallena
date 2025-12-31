@@ -1,6 +1,6 @@
 # Hi, I’m Gerald 👋
 
-I’m a pipeline-focused analyst bridging **genomics/bioinformatics** and **data engineering**.  
+I’m a pipeline-focused analyst.  
 I build reproducible workflows and ship **QC-first, audit-ready** tables, figures, and reports.
 
 ---
