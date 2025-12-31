@@ -34,23 +34,12 @@ I build reproducible workflows and ship **QC-first, audit-ready** tables, figure
 ---
 
 ## Tech stack
+[![Stack](https://skillicons.dev/icons?i=python,r,bash,ubuntu,docker,github,vscode)](https://skillicons.dev)
 
-### Workflow / Infra
-- Snakemake • Slurm • Docker / Singularity • Conda/Mamba • Git/GitHub
-- Config + reproducibility: YAML • JSON • TOML
+![Snakemake](https://img.shields.io/badge/Snakemake-workflows-informational)
+![Slurm](https://img.shields.io/badge/Slurm-HPC-informational)
+![Singularity](https://img.shields.io/badge/Singularity-containers-informational)
 
-### Python
-- pandas • NumPy • matplotlib • Jupyter
-
-### R
-- tidyverse (dplyr/ggplot2/readr/tidyr) • vegan (ordination/stat ecology) • patchwork
-
-### Bioinformatics (as needed)
-- QIIME2 • DADA2
-- MAFFT • IQ-TREE • MrBayes • PhyML • PAUP* • MEGA
-
-### Editors / Writing
-- VS Code • LaTeX (TeXstudio / Overleaf)
 
 ---
 
