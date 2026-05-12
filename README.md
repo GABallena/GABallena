@@ -29,7 +29,7 @@ Currently working on translating the same engineering principles to other sector
 ## Contact
 If you think we’d work well together, feel free to reach out:
 
-- Email: gmballena@up.edu.ph  
+- Email: gaballena@gmail.com  
 - LinkedIn: https://linkedin.com/in/gerald-amiel-ballena  
 - ORCID: https://orcid.org/0009-0000-8857-9755  
 
